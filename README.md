@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirito344
-- 👀 I’m interested in dart and flutter
-- 🌱 I’m currently learning dart and flutter
+- 👀 I’m interested in HTML and CSS JS
+- 🌱 I’m currently learning css and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send me a message
 
