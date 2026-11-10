@@ -28,7 +28,7 @@ Building complete applications from scratch.
 
 Debugging, testing, and improving existing systems.
 
-📫 Get in Touch
+ Get in Touch 📫
 
 Feel free to reach out or connect with me
 
